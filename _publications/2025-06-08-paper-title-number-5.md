@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Construction of risk response scenarios for the emergency material support system"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This study proposes an ontological framework to represent risk response scenarios for emergency material support systems, capturing scenario features, structures, constraints, and attributes across four dimensions.'
+date: 2023-08-13
+venue: 'Procedia Computer Science (ITQM 2023)'
+paperurl: 'https://li-ucas-casisd.github.io/files/ITQM2023.pdf'
+citation: 'Li, L., Sun, X., & Suo, W. (2023). Construction of risk response scenarios for the emergency material support system. <i>Procedia Computer Science</i>, 221, 979–983.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Representing disaster scenarios and evaluating the emergency material support system (EMSS) is crucial to enhance emergency material support capabilities. Current representation methods for EMSS mostly focused on the task response procedure during emergencies, rarely involved the response process analysis for disaster scenarios. This study utilizes an ontological method to construct a representation of risk response scenarios for the EMSS. It can be achieved by representing scenario feature elements, scenario structure elements, scenario constraint elements, and scenario attribute elements through the four dimensions. The scenario representation can generate different setting schemes for EMSS. An example scenario was presented based on the measures implemented by the Chinese government during the COVID-19 epidemic's closure of Wuhan. The findings of this research can provide valuable support for making risk-informed decisions regarding EMSS.
