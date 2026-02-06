@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. candidate at  [Institutes of Science and Development, Chinese Academy of Sciences](http://www.casisd.cn/), under the supervision of Prof. [Xiaolei Sun](https://sem.buaa.edu.cn/info/1131/15884.htm). Before that, I received my B.E. degree from [Business School, Shandong University](https://https://shxy.wh.sdu.edu.cn/), under the supervision of Prof [Chao Liu](https://shxy.wh.sdu.edu.cn/info/1266/22265.htm).
 
-My research focuses on data-oriented decision-making and its applications. In particular, I am very interested in risk management, climate disasters, emergency reserves, graph representation learning, and AI4SocialScience.
+My research focuses on data-driven decision-making under uncertainty, with an emphasis on risk management in socio-ecological systems. I integrate methods from graph representation learning, AI for Social Science (AI4SS), and complex systems modeling to study climate disaster resilience, emergency resource allocation, and adaptive governance.
 
 Education
 ======
