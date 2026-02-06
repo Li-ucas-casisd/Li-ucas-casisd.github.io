@@ -18,23 +18,23 @@ Education
 
 News
 ======
-[2026.01] 🎉 One paper is accepted by Chinese Journal of Management (管理学报).
-[2025.09] 🎉 One paper is accepted by Journal of Innovation & Knowledge.
-[2025.07] 🎉 One papers is accepted by Technology Analysis & Strategic Management.
-[2025.05] 🎉 One paper is accepted by Scientific Data.
-[2025.04] 🎉 One paper is accepted by Bulletin of the Chinese Academy of Sciences (中国科学院院刊).
+- [2026.01] 🎉 One paper is accepted by *Chinese Journal of Management* (管理学报).
+- [2025.09] 🎉 One paper is accepted by *Journal of Innovation & Knowledge*.
+- [2025.07] 🎉 One paper is accepted by *Technology Analysis & Strategic Management*.
+- [2025.05] 🎉 One paper is accepted by *Scientific Data*.
+- [2025.04] 🎉 One paper is accepted by *Bulletin of the Chinese Academy of Sciences* (中国科学院院刊).
 
 Selected Honors & Awards
 ======
-[2025] Cheng Siwei Outstanding Student Award.
-[2023] Outstanding prize, China National College Students Competition on Energy Economics.
-[2022] Outstanding Undergraduate Graduate, Shandong University.
-[2021] Bronze prize, "Challenge Cup" National College Students' Business Plan Competition.
-[2020] Second prize, "Challenge Cup" National College Students' Academic Science and Technology Competition.
+- [2025] Cheng Siwei Outstanding Student Award.
+- [2023] Outstanding prize, China National College Students Competition on Energy Economics.
+- [2022] Outstanding Undergraduate Graduate, Shandong University.
+- [2021] Bronze prize, "Challenge Cup" National College Students' Business Plan Competition.
+- [2020] Second prize, "Challenge Cup" National College Students' Academic Science and Technology Competition.
 
 Academic Services
 ======
-# Journal Reviewer:
-## Humanities & Social Sciences Communications
-## Economic Analysis and Policy
-## Technology Analysis & Strategic Management
+- **Journal Reviewer:**  
+  - *Humanities & Social Sciences Communications*  
+  - *Economic Analysis and Policy*  
+  - *Technology Analysis & Strategic Management*
