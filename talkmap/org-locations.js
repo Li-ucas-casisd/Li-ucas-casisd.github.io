@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "Construction of risk response scenarios for the emergency material support system<br />Online talk; Oxford, UK",
     51.7520131,
     -1.2578499
+  ],
+  [
+    "Policy Element Extraction and Structural Analysis Based on Large Language Models<br />Shandong University; Jinan, China",
+    36.6519754,
+    117.1138479
+  ],
+  [
+    "A public complain based climate social susceptibility and government response index for China<br />Shandong University; WEihai, China",
+    37.5120997,
+    122.1152599
+  ],
+  [
+    "Multidimensional deconstruction of policy tools: A quantitative assessment framework based on frequency effectiveness and positional<br />Online talk, Rutgers Business School; New Brunswick, Piscataway, USA",
+    40.5572576,
+    -74.4702827
   ]
 ];
