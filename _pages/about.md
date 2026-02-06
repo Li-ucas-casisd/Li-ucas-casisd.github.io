@@ -13,12 +13,12 @@ My research focuses on data-oriented decision-making and its applications. In pa
 
 Education
 ======
-[2022.09-Present] Ph.D. at Institutes of Science and Development, Chinese Academy of Sciences.
-[2018.09-2022.06] B.E. at Business School,Shandong University.
+- /[2022.09-Present] Ph.D. at Institutes of Science and Development, Chinese Academy of Sciences./
+- /[2018.09-2022.06] B.E. at Business School,Shandong University./
 
 News
 ======
-- [2026.01] 🎉 One paper is accepted by *Chinese Journal of Management* (管理学报).
+- /[2026.01] 🎉 One paper is accepted by *Chinese Journal of Management* (管理学报)./
 - [2025.09] 🎉 One paper is accepted by *Journal of Innovation & Knowledge*.
 - [2025.07] 🎉 One paper is accepted by *Technology Analysis & Strategic Management*.
 - [2025.05] 🎉 One paper is accepted by *Scientific Data*.
