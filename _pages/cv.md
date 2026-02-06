@@ -25,3 +25,5 @@ Skills
   * ERGM/SAOM
 * Multiple Attribute Decision Making
 * Qualitative Analysis
+  * Case study
+  * QCA
