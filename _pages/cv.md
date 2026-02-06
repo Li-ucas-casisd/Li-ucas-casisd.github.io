@@ -17,9 +17,8 @@ Education
 Skills
 ======
 * Machine Learning
-  * Text mining
+  * Natural Language Processing
   * Feature ranking
-  * RAG
 * Complex Network
   * Cascading faliure
   * Motif identification
