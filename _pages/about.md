@@ -34,7 +34,7 @@ Selected Honors & Awards
 
 Academic Services
 ======
-- **Journal Reviewer:**  
+- Journal Reviewer:  
   - *Humanities & Social Sciences Communications*  
   - *Economic Analysis and Policy*  
   - *Technology Analysis & Strategic Management*
