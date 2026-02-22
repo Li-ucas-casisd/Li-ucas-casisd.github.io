@@ -37,6 +37,7 @@ Academic Services
 - Journal Reviewer:  
   - *Humanities & Social Sciences Communications*  
   - *Economic Analysis and Policy*  
+  - *Journal of Innovation & Knowledge* 
   - *Technology Analysis & Strategic Management*   
 
 Updated on Feb. 6, 2026 (UTC+8)
