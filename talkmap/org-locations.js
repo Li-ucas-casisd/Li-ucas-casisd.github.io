@@ -10,13 +10,13 @@ var addressPoints = [
     117.1138479
   ],
   [
-    "A public complain based climate social susceptibility and government response index for China<br />Shandong University; WEihai, China",
+    "A public complain based climate social susceptibility and government response index for China<br />Shandong University; Weihai, China",
     37.5120997,
     122.1152599
   ],
   [
     "Multidimensional deconstruction of policy tools: A quantitative assessment framework based on frequency effectiveness and positional<br />Online talk, Rutgers Business School; New Brunswick, Piscataway, USA",
-    40.5572576,
-    -74.4702827
+    40.5204169,
+    -74.4645303
   ]
 ];
