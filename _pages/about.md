@@ -14,7 +14,7 @@ My research focuses on data-driven decision-making under uncertainty, with an em
 Education
 ======
 - [2022.09-Present] Ph.D. at Institutes of Science and Development, Chinese Academy of Sciences.
-- [2018.09-2022.06] B.E. at Business School,Shandong University.
+- [2018.09-2022.06] B.E. at Business School, Shandong University.
 
 News
 ======
@@ -37,6 +37,7 @@ Academic Services
 - Journal Reviewer:  
   - *Humanities & Social Sciences Communications*  
   - *Economic Analysis and Policy*  
+  - *Journal of Innovation & Knowledge*  
   - *Technology Analysis & Strategic Management*   
 
-Updated on Feb. 6, 2026 (UTC+8)
+Updated on Mar. 3, 2026 (UTC+8)
