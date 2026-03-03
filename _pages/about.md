@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<<<<<<< HEAD
-I am currently a fourth-year Ph.D. candidate at  [Institutes of Science and Development, Chinese Academy of Sciences](http://www.casisd.cn/), under the supervision of Prof. [Xiaolei Sun](https://sem.buaa.edu.cn/info/1131/15884.htm). Before that, I received my B.E. degree from [Business School, Shandong University](https://shxy.wh.sdu.edu.cn/), under the supervision of Prof [Chao Liu](https://shxy.wh.sdu.edu.cn/info/1266/22265.htm).
-=======
 I am currently a fourth-year Ph.D. candidate at  [Institutes of Science and Development, Chinese Academy of Sciences](http://www.casisd.cn/), under the supervision of Prof. [Xiaolei Sun](https://sem.buaa.edu.cn/info/1131/15884.htm). Before that, I received my B.E. degree from [Business School, Shandong University](https://https://shxy.wh.sdu.edu.cn/), under the supervision of Prof. [Chao Liu](https://shxy.wh.sdu.edu.cn/info/1266/22265.htm).
->>>>>>> 9ec9aef24fecd3c4b06169e29aa81686121c4620
 
 My research focuses on data-driven decision-making under uncertainty, with an emphasis on risk management in socio-ecological systems. I integrate methods from graph representation learning, AI for Social Science, and complex systems modeling to study climate disaster resilience, emergency resource allocation, and adaptive governance.
 
@@ -41,11 +37,7 @@ Academic Services
 - Journal Reviewer:  
   - *Humanities & Social Sciences Communications*  
   - *Economic Analysis and Policy*  
-<<<<<<< HEAD
   - *Journal of Innovation & Knowledge*  
-=======
-  - *Journal of Innovation & Knowledge* 
->>>>>>> 9ec9aef24fecd3c4b06169e29aa81686121c4620
   - *Technology Analysis & Strategic Management*   
 
 Updated on Mar. 3, 2026 (UTC+8)
