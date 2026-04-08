@@ -39,5 +39,6 @@ Academic Services
   - *Economic Analysis and Policy*  
   - *Journal of Innovation & Knowledge*  
   - *Technology Analysis & Strategic Management*   
+  - *Habitat International*   
 
 Updated on Mar. 3, 2026 (UTC+8)
