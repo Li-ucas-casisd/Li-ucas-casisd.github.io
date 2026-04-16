@@ -40,5 +40,6 @@ Academic Services
   - *Journal of Innovation & Knowledge*  
   - *Technology Analysis & Strategic Management*   
   - *Habitat International*   
+  - *Applied Spatial Analysis and Policy*
 
 Updated on Mar. 3, 2026 (UTC+8)
