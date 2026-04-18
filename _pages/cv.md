@@ -17,6 +17,7 @@ Education
 Skills
 ======
 * Machine Learning
+  * LLM, Agent
   * Natural Language Processing
   * Feature ranking
 * Complex Network
