@@ -41,5 +41,6 @@ Academic Services
   - *Technology Analysis & Strategic Management*   
   - *Habitat International*   
   - *Applied Spatial Analysis and Policy*
+  - *Systems Research and Behavioral Science*
 
 Updated on Apr. 16th, 2026 (UTC+8)
