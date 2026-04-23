@@ -19,12 +19,12 @@ Skills
 * Machine Learning
   * LLM, Agent
   * Natural Language Processing
-  * Feature ranking
+  * Statistical Machine Learning
 * Complex Network
-  * Cascading faliure
-  * Motif identification
+  * Cascading Faliure
+  * Motif Identification
   * ERGM/SAOM
 * Multiple Attribute Decision Making
 * Qualitative Analysis
-  * Case study
+  * Case Study
   * QCA
