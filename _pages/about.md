@@ -11,6 +11,8 @@ I am currently a fourth-year Ph.D. candidate at  [Institutes of Science and Deve
 
 My research focuses on data-driven decision-making under uncertainty, with an emphasis on risk management in socio-ecological systems. I integrate methods from graph representation learning, AI for Social Science, and complex systems modeling to study climate disaster resilience, emergency resource allocation, and adaptive governance.
 
+I am on the 2026–2027 job market. Please feel free to contact me for research collaborations or job opportunities.
+
 Education
 ======
 - [2022.09-Present] Ph.D. at Institutes of Science and Development, Chinese Academy of Sciences.
