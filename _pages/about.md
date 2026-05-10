@@ -44,5 +44,6 @@ Academic Services
   - *Habitat International*   
   - *Applied Spatial Analysis and Policy*
   - *Systems Research and Behavioral Science*
+  - *Science and Public Policy*
 
 Updated on Apr. 23rd, 2026 (UTC+8)
