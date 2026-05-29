@@ -45,5 +45,6 @@ Academic Services
   - *Applied Spatial Analysis and Policy*
   - *Systems Research and Behavioral Science*
   - *Science and Public Policy*
+  - *Journal of Industrial Ecology*
 
 Updated on Apr. 23rd, 2026 (UTC+8)
