@@ -25,6 +25,7 @@ Skills
   * Motif Identification
   * ERGM/SAOM
 * Multiple Attribute Decision Making
+* Econometrics
 * Qualitative Analysis
   * Case Study
   * QCA
