@@ -46,5 +46,6 @@ Academic Services
   - *Systems Research and Behavioral Science*
   - *Science and Public Policy*
   - *Journal of Industrial Ecology*
+  - *Growth and Change*
 
-Updated on Apr. 23rd, 2026 (UTC+8)
+Updated on Jun. 15th, 2026 (UTC+8)
