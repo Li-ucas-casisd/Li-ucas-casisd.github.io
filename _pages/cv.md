@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[<i class="fas fa-download"></i> Download CV as PDF](/files/cv-longfei-li.pdf){: .btn .btn--primary}
+{: .text-right}
+
 Education
 ======
 * Ph.D in Institutes of Science and Development, Chinese Academy of Sciences, 2027 (expected)
